@@ -3,4 +3,4 @@
 .DS_Store
 __pycache__/
 *.pyc
-data/raw/places365/val_256/
+data/raw
