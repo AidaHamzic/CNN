@@ -1,0 +1,181 @@
+thesis_class,model_name,label,count
+buildings,mobilenetv2,palace,85
+buildings,mobilenetv2,bell cote,36
+buildings,mobilenetv2,monastery,27
+buildings,mobilenetv2,mobile home,25
+buildings,mobilenetv2,lakeside,20
+buildings,mobilenetv2,cinema,17
+buildings,mobilenetv2,solar dish,16
+buildings,mobilenetv2,boathouse,14
+buildings,mobilenetv2,pier,13
+buildings,mobilenetv2,planetarium,11
+buildings,resnet18,palace,74
+buildings,resnet18,bell cote,38
+buildings,resnet18,monastery,26
+buildings,resnet18,mobile home,25
+buildings,resnet18,prison,21
+buildings,resnet18,boathouse,20
+buildings,resnet18,cinema,20
+buildings,resnet18,solar dish,19
+buildings,resnet18,planetarium,17
+buildings,resnet18,castle,14
+buildings,vgg16,palace,75
+buildings,vgg16,mobile home,28
+buildings,vgg16,bell cote,26
+buildings,vgg16,boathouse,24
+buildings,vgg16,cinema,22
+buildings,vgg16,monastery,21
+buildings,vgg16,solar dish,15
+buildings,vgg16,planetarium,13
+buildings,vgg16,lakeside,12
+buildings,vgg16,pier,12
+forest,mobilenetv2,valley,104
+forest,mobilenetv2,lakeside,61
+forest,mobilenetv2,worm fence,21
+forest,mobilenetv2,mountain bike,17
+forest,mobilenetv2,cliff,10
+forest,mobilenetv2,geyser,9
+forest,mobilenetv2,greenhouse,9
+forest,mobilenetv2,park bench,9
+forest,mobilenetv2,suspension bridge,8
+forest,mobilenetv2,fountain,7
+forest,resnet18,valley,91
+forest,resnet18,lakeside,39
+forest,resnet18,worm fence,37
+forest,resnet18,mountain bike,33
+forest,resnet18,suspension bridge,17
+forest,resnet18,park bench,13
+forest,resnet18,alp,12
+forest,resnet18,fountain,10
+forest,resnet18,snowmobile,10
+forest,resnet18,cliff,8
+forest,vgg16,valley,92
+forest,vgg16,lakeside,29
+forest,vgg16,worm fence,29
+forest,vgg16,mountain bike,27
+forest,vgg16,mountain tent,25
+forest,vgg16,suspension bridge,17
+forest,vgg16,stone wall,10
+forest,vgg16,greenhouse,9
+forest,vgg16,swing,9
+forest,vgg16,alp,7
+glacier,mobilenetv2,alp,142
+glacier,mobilenetv2,seashore,30
+glacier,mobilenetv2,cliff,28
+glacier,mobilenetv2,promontory,28
+glacier,mobilenetv2,valley,28
+glacier,mobilenetv2,lakeside,22
+glacier,mobilenetv2,ski,15
+glacier,mobilenetv2,volcano,12
+glacier,mobilenetv2,plastic bag,10
+glacier,mobilenetv2,dam,6
+glacier,resnet18,alp,133
+glacier,resnet18,promontory,30
+glacier,resnet18,lakeside,22
+glacier,resnet18,valley,22
+glacier,resnet18,volcano,20
+glacier,resnet18,cliff,19
+glacier,resnet18,ski,19
+glacier,resnet18,seashore,17
+glacier,resnet18,dogsled,10
+glacier,resnet18,snowmobile,10
+glacier,vgg16,alp,143
+glacier,vgg16,valley,29
+glacier,vgg16,promontory,23
+glacier,vgg16,seashore,23
+glacier,vgg16,cliff,18
+glacier,vgg16,ski,18
+glacier,vgg16,breakwater,15
+glacier,vgg16,lakeside,15
+glacier,vgg16,volcano,15
+glacier,vgg16,ice bear,11
+mountain,mobilenetv2,alp,121
+mountain,mobilenetv2,volcano,89
+mountain,mobilenetv2,valley,82
+mountain,mobilenetv2,cliff,67
+mountain,mobilenetv2,lakeside,16
+mountain,mobilenetv2,geyser,14
+mountain,mobilenetv2,mountain bike,9
+mountain,mobilenetv2,promontory,9
+mountain,mobilenetv2,seashore,9
+mountain,mobilenetv2,cliff dwelling,7
+mountain,resnet18,alp,123
+mountain,resnet18,valley,93
+mountain,resnet18,volcano,92
+mountain,resnet18,cliff,46
+mountain,resnet18,lakeside,18
+mountain,resnet18,cliff dwelling,13
+mountain,resnet18,geyser,10
+mountain,resnet18,seashore,10
+mountain,resnet18,mountain bike,8
+mountain,resnet18,promontory,6
+mountain,vgg16,alp,127
+mountain,vgg16,volcano,97
+mountain,vgg16,valley,78
+mountain,vgg16,cliff,62
+mountain,vgg16,geyser,15
+mountain,vgg16,lakeside,15
+mountain,vgg16,cliff dwelling,10
+mountain,vgg16,mountain bike,8
+mountain,vgg16,promontory,6
+mountain,vgg16,stone wall,4
+sea,mobilenetv2,seashore,141
+sea,mobilenetv2,promontory,47
+sea,mobilenetv2,sandbar,37
+sea,mobilenetv2,lakeside,29
+sea,mobilenetv2,dock,20
+sea,mobilenetv2,speedboat,20
+sea,mobilenetv2,cliff,11
+sea,mobilenetv2,submarine,8
+sea,mobilenetv2,aircraft carrier,7
+sea,mobilenetv2,drilling platform,7
+sea,resnet18,seashore,135
+sea,resnet18,promontory,44
+sea,resnet18,lakeside,40
+sea,resnet18,sandbar,38
+sea,resnet18,dock,21
+sea,resnet18,speedboat,17
+sea,resnet18,killer whale,11
+sea,resnet18,breakwater,8
+sea,resnet18,catamaran,8
+sea,resnet18,cliff,8
+sea,vgg16,seashore,125
+sea,vgg16,promontory,45
+sea,vgg16,sandbar,36
+sea,vgg16,lakeside,34
+sea,vgg16,dock,27
+sea,vgg16,speedboat,23
+sea,vgg16,cliff,13
+sea,vgg16,breakwater,12
+sea,vgg16,paddle,11
+sea,vgg16,volcano,9
+street,mobilenetv2,prison,33
+street,mobilenetv2,streetcar,26
+street,mobilenetv2,palace,20
+street,mobilenetv2,trailer truck,18
+street,mobilenetv2,jinrikisha,17
+street,mobilenetv2,seashore,16
+street,mobilenetv2,street sign,14
+street,mobilenetv2,unicycle,13
+street,mobilenetv2,bell cote,12
+street,mobilenetv2,lakeside,12
+street,resnet18,prison,37
+street,resnet18,trailer truck,23
+street,resnet18,streetcar,22
+street,resnet18,jinrikisha,18
+street,resnet18,traffic light,18
+street,resnet18,crutch,14
+street,resnet18,palace,14
+street,resnet18,lakeside,12
+street,resnet18,bell cote,11
+street,resnet18,street sign,11
+street,vgg16,streetcar,29
+street,vgg16,prison,28
+street,vgg16,unicycle,16
+street,vgg16,palace,14
+street,vgg16,jinrikisha,12
+street,vgg16,cinema,11
+street,vgg16,lakeside,11
+street,vgg16,limousine,11
+street,vgg16,obelisk,11
+street,vgg16,street sign,11

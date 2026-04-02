@@ -1,0 +1,1971 @@
+thesis_class,model_name,top1_label,count
+buildings,mobilenetv2,palace,85
+buildings,mobilenetv2,bell cote,36
+buildings,mobilenetv2,monastery,27
+buildings,mobilenetv2,mobile home,25
+buildings,mobilenetv2,lakeside,20
+buildings,mobilenetv2,cinema,17
+buildings,mobilenetv2,solar dish,16
+buildings,mobilenetv2,boathouse,14
+buildings,mobilenetv2,pier,13
+buildings,mobilenetv2,planetarium,11
+buildings,mobilenetv2,prison,11
+buildings,mobilenetv2,library,10
+buildings,mobilenetv2,airship,8
+buildings,mobilenetv2,castle,8
+buildings,mobilenetv2,church,8
+buildings,mobilenetv2,streetcar,8
+buildings,mobilenetv2,beacon,7
+buildings,mobilenetv2,drilling platform,7
+buildings,mobilenetv2,scoreboard,7
+buildings,mobilenetv2,seashore,7
+buildings,mobilenetv2,liner,6
+buildings,mobilenetv2,street sign,6
+buildings,mobilenetv2,tile roof,6
+buildings,mobilenetv2,cab,5
+buildings,mobilenetv2,obelisk,5
+buildings,mobilenetv2,patio,5
+buildings,mobilenetv2,container ship,4
+buildings,mobilenetv2,crane,4
+buildings,mobilenetv2,dome,4
+buildings,mobilenetv2,flagpole,4
+buildings,mobilenetv2,barn,3
+buildings,mobilenetv2,greenhouse,3
+buildings,mobilenetv2,lumbermill,3
+buildings,mobilenetv2,moving van,3
+buildings,mobilenetv2,radiator,3
+buildings,mobilenetv2,steel arch bridge,3
+buildings,mobilenetv2,thatch,3
+buildings,mobilenetv2,traffic light,3
+buildings,mobilenetv2,triumphal arch,3
+buildings,mobilenetv2,water tower,3
+buildings,mobilenetv2,worm fence,3
+buildings,mobilenetv2,bannister,2
+buildings,mobilenetv2,dock,2
+buildings,mobilenetv2,fireboat,2
+buildings,mobilenetv2,fountain,2
+buildings,mobilenetv2,gondola,2
+buildings,mobilenetv2,jinrikisha,2
+buildings,mobilenetv2,limousine,2
+buildings,mobilenetv2,mosque,2
+buildings,mobilenetv2,organ,2
+buildings,mobilenetv2,snowplow,2
+buildings,mobilenetv2,tobacco shop,2
+buildings,mobilenetv2,vault,2
+buildings,mobilenetv2,window shade,2
+buildings,mobilenetv2,aircraft carrier,1
+buildings,mobilenetv2,analog clock,1
+buildings,mobilenetv2,breakwater,1
+buildings,mobilenetv2,carpenter's kit,1
+buildings,mobilenetv2,chime,1
+buildings,mobilenetv2,comic book,1
+buildings,mobilenetv2,crate,1
+buildings,mobilenetv2,dam,1
+buildings,mobilenetv2,fire engine,1
+buildings,mobilenetv2,forklift,1
+buildings,mobilenetv2,freight car,1
+buildings,mobilenetv2,grocery store,1
+buildings,mobilenetv2,jigsaw puzzle,1
+buildings,mobilenetv2,lab coat,1
+buildings,mobilenetv2,lifeboat,1
+buildings,mobilenetv2,maze,1
+buildings,mobilenetv2,megalith,1
+buildings,mobilenetv2,minivan,1
+buildings,mobilenetv2,motor scooter,1
+buildings,mobilenetv2,notebook,1
+buildings,mobilenetv2,paddlewheel,1
+buildings,mobilenetv2,park bench,1
+buildings,mobilenetv2,passenger car,1
+buildings,mobilenetv2,pedestal,1
+buildings,mobilenetv2,picket fence,1
+buildings,mobilenetv2,pole,1
+buildings,mobilenetv2,police van,1
+buildings,mobilenetv2,radio telescope,1
+buildings,mobilenetv2,recreational vehicle,1
+buildings,mobilenetv2,school bus,1
+buildings,mobilenetv2,shopping basket,1
+buildings,mobilenetv2,shower curtain,1
+buildings,mobilenetv2,sliding door,1
+buildings,mobilenetv2,slot,1
+buildings,mobilenetv2,space heater,1
+buildings,mobilenetv2,stretcher,1
+buildings,mobilenetv2,submarine,1
+buildings,mobilenetv2,suspension bridge,1
+buildings,mobilenetv2,theater curtain,1
+buildings,mobilenetv2,tow truck,1
+buildings,mobilenetv2,trolleybus,1
+buildings,mobilenetv2,turnstile,1
+buildings,mobilenetv2,unicycle,1
+buildings,mobilenetv2,web site,1
+buildings,mobilenetv2,window screen,1
+buildings,mobilenetv2,wing,1
+buildings,mobilenetv2,yurt,1
+buildings,resnet18,palace,74
+buildings,resnet18,bell cote,38
+buildings,resnet18,monastery,26
+buildings,resnet18,mobile home,25
+buildings,resnet18,prison,21
+buildings,resnet18,boathouse,20
+buildings,resnet18,cinema,20
+buildings,resnet18,solar dish,19
+buildings,resnet18,planetarium,17
+buildings,resnet18,castle,14
+buildings,resnet18,church,12
+buildings,resnet18,lakeside,11
+buildings,resnet18,dome,8
+buildings,resnet18,library,8
+buildings,resnet18,patio,8
+buildings,resnet18,scoreboard,7
+buildings,resnet18,airship,6
+buildings,resnet18,cab,6
+buildings,resnet18,obelisk,6
+buildings,resnet18,beacon,5
+buildings,resnet18,dam,5
+buildings,resnet18,picket fence,5
+buildings,resnet18,pier,5
+buildings,resnet18,seashore,5
+buildings,resnet18,crane,4
+buildings,resnet18,fountain,4
+buildings,resnet18,maze,4
+buildings,resnet18,streetcar,4
+buildings,resnet18,thatch,4
+buildings,resnet18,traffic light,4
+buildings,resnet18,aircraft carrier,3
+buildings,resnet18,drilling platform,3
+buildings,resnet18,flagpole,3
+buildings,resnet18,lumbermill,3
+buildings,resnet18,mosque,3
+buildings,resnet18,pedestal,3
+buildings,resnet18,restaurant,3
+buildings,resnet18,steel arch bridge,3
+buildings,resnet18,street sign,3
+buildings,resnet18,trolleybus,3
+buildings,resnet18,barn,2
+buildings,resnet18,container ship,2
+buildings,resnet18,fireboat,2
+buildings,resnet18,moving van,2
+buildings,resnet18,organ,2
+buildings,resnet18,passenger car,2
+buildings,resnet18,shopping cart,2
+buildings,resnet18,snowplow,2
+buildings,resnet18,space heater,2
+buildings,resnet18,tile roof,2
+buildings,resnet18,tobacco shop,2
+buildings,resnet18,triumphal arch,2
+buildings,resnet18,turnstile,2
+buildings,resnet18,water tower,2
+buildings,resnet18,window screen,2
+buildings,resnet18,window shade,2
+buildings,resnet18,worm fence,2
+buildings,resnet18,Model T,1
+buildings,resnet18,bannister,1
+buildings,resnet18,barbershop,1
+buildings,resnet18,barrel,1
+buildings,resnet18,canoe,1
+buildings,resnet18,chime,1
+buildings,resnet18,convertible,1
+buildings,resnet18,dock,1
+buildings,resnet18,doormat,1
+buildings,resnet18,ear,1
+buildings,resnet18,electric fan,1
+buildings,resnet18,fire engine,1
+buildings,resnet18,folding chair,1
+buildings,resnet18,freight car,1
+buildings,resnet18,gondola,1
+buildings,resnet18,greenhouse,1
+buildings,resnet18,guillotine,1
+buildings,resnet18,hamper,1
+buildings,resnet18,jigsaw puzzle,1
+buildings,resnet18,lab coat,1
+buildings,resnet18,microphone,1
+buildings,resnet18,minivan,1
+buildings,resnet18,monitor,1
+buildings,resnet18,oil filter,1
+buildings,resnet18,park bench,1
+buildings,resnet18,pole,1
+buildings,resnet18,schooner,1
+buildings,resnet18,screen,1
+buildings,resnet18,screwdriver,1
+buildings,resnet18,sliding door,1
+buildings,resnet18,space shuttle,1
+buildings,resnet18,stage,1
+buildings,resnet18,steam locomotive,1
+buildings,resnet18,stone wall,1
+buildings,resnet18,studio couch,1
+buildings,resnet18,submarine,1
+buildings,resnet18,suit,1
+buildings,resnet18,valley,1
+buildings,resnet18,viaduct,1
+buildings,resnet18,wing,1
+buildings,resnet18,wreck,1
+buildings,vgg16,palace,75
+buildings,vgg16,mobile home,28
+buildings,vgg16,bell cote,26
+buildings,vgg16,boathouse,24
+buildings,vgg16,cinema,22
+buildings,vgg16,monastery,21
+buildings,vgg16,solar dish,15
+buildings,vgg16,planetarium,13
+buildings,vgg16,lakeside,12
+buildings,vgg16,pier,12
+buildings,vgg16,streetcar,12
+buildings,vgg16,cab,10
+buildings,vgg16,castle,10
+buildings,vgg16,church,10
+buildings,vgg16,liner,9
+buildings,vgg16,patio,9
+buildings,vgg16,obelisk,8
+buildings,vgg16,prison,8
+buildings,vgg16,library,7
+buildings,vgg16,drilling platform,6
+buildings,vgg16,steel arch bridge,6
+buildings,vgg16,thatch,6
+buildings,vgg16,traffic light,6
+buildings,vgg16,triumphal arch,6
+buildings,vgg16,fireboat,5
+buildings,vgg16,flagpole,5
+buildings,vgg16,picket fence,5
+buildings,vgg16,scoreboard,5
+buildings,vgg16,water tower,5
+buildings,vgg16,beacon,4
+buildings,vgg16,container ship,4
+buildings,vgg16,mosque,4
+buildings,vgg16,moving van,4
+buildings,vgg16,airship,3
+buildings,vgg16,crane,3
+buildings,vgg16,dome,3
+buildings,vgg16,fountain,3
+buildings,vgg16,minivan,3
+buildings,vgg16,tile roof,3
+buildings,vgg16,tobacco shop,3
+buildings,vgg16,vault,3
+buildings,vgg16,worm fence,3
+buildings,vgg16,alp,2
+buildings,vgg16,bookshop,2
+buildings,vgg16,crate,2
+buildings,vgg16,limousine,2
+buildings,vgg16,pedestal,2
+buildings,vgg16,schooner,2
+buildings,vgg16,seashore,2
+buildings,vgg16,shopping cart,2
+buildings,vgg16,snowplow,2
+buildings,vgg16,space shuttle,2
+buildings,vgg16,street sign,2
+buildings,vgg16,submarine,2
+buildings,vgg16,trolleybus,2
+buildings,vgg16,window screen,2
+buildings,vgg16,abaya,1
+buildings,vgg16,academic gown,1
+buildings,vgg16,airliner,1
+buildings,vgg16,barbershop,1
+buildings,vgg16,barn,1
+buildings,vgg16,car mirror,1
+buildings,vgg16,carousel,1
+buildings,vgg16,carpenter's kit,1
+buildings,vgg16,chainlink fence,1
+buildings,vgg16,crib,1
+buildings,vgg16,dam,1
+buildings,vgg16,dishwasher,1
+buildings,vgg16,dock,1
+buildings,vgg16,fire engine,1
+buildings,vgg16,garbage truck,1
+buildings,vgg16,golfcart,1
+buildings,vgg16,hand-held computer,1
+buildings,vgg16,jinrikisha,1
+buildings,vgg16,minibus,1
+buildings,vgg16,missile,1
+buildings,vgg16,monitor,1
+buildings,vgg16,nail,1
+buildings,vgg16,paddlewheel,1
+buildings,vgg16,passenger car,1
+buildings,vgg16,pole,1
+buildings,vgg16,police van,1
+buildings,vgg16,promontory,1
+buildings,vgg16,radiator,1
+buildings,vgg16,radio telescope,1
+buildings,vgg16,school bus,1
+buildings,vgg16,sports car,1
+buildings,vgg16,stupa,1
+buildings,vgg16,suspension bridge,1
+buildings,vgg16,swab,1
+buildings,vgg16,thimble,1
+buildings,vgg16,trailer truck,1
+buildings,vgg16,trimaran,1
+buildings,vgg16,vending machine,1
+buildings,vgg16,viaduct,1
+buildings,vgg16,web site,1
+buildings,vgg16,window shade,1
+buildings,vgg16,wing,1
+buildings,vgg16,yurt,1
+forest,mobilenetv2,valley,104
+forest,mobilenetv2,lakeside,61
+forest,mobilenetv2,worm fence,21
+forest,mobilenetv2,mountain bike,17
+forest,mobilenetv2,cliff,10
+forest,mobilenetv2,geyser,9
+forest,mobilenetv2,greenhouse,9
+forest,mobilenetv2,park bench,9
+forest,mobilenetv2,suspension bridge,8
+forest,mobilenetv2,fountain,7
+forest,mobilenetv2,alp,6
+forest,mobilenetv2,bittern,6
+forest,mobilenetv2,dam,5
+forest,mobilenetv2,pot,5
+forest,mobilenetv2,snowmobile,5
+forest,mobilenetv2,snowplow,5
+forest,mobilenetv2,stone wall,5
+forest,mobilenetv2,swing,5
+forest,mobilenetv2,unicycle,5
+forest,mobilenetv2,volcano,5
+forest,mobilenetv2,chime,4
+forest,mobilenetv2,ear,4
+forest,mobilenetv2,hen-of-the-woods,4
+forest,mobilenetv2,maze,4
+forest,mobilenetv2,megalith,4
+forest,mobilenetv2,shower curtain,4
+forest,mobilenetv2,solar dish,4
+forest,mobilenetv2,viaduct,4
+forest,mobilenetv2,dogsled,3
+forest,mobilenetv2,giant schnauzer,3
+forest,mobilenetv2,koala,3
+forest,mobilenetv2,lumbermill,3
+forest,mobilenetv2,pole,3
+forest,mobilenetv2,seashore,3
+forest,mobilenetv2,tusker,3
+forest,mobilenetv2,American black bear,2
+forest,mobilenetv2,birdhouse,2
+forest,mobilenetv2,bison,2
+forest,mobilenetv2,black stork,2
+forest,mobilenetv2,bow,2
+forest,mobilenetv2,canoe,2
+forest,mobilenetv2,car mirror,2
+forest,mobilenetv2,cloak,2
+forest,mobilenetv2,common newt,2
+forest,mobilenetv2,echidna,2
+forest,mobilenetv2,flagpole,2
+forest,mobilenetv2,hartebeest,2
+forest,mobilenetv2,indri,2
+forest,mobilenetv2,maypole,2
+forest,mobilenetv2,mobile home,2
+forest,mobilenetv2,organ,2
+forest,mobilenetv2,oxcart,2
+forest,mobilenetv2,rapeseed,2
+forest,mobilenetv2,suit,2
+forest,mobilenetv2,thatch,2
+forest,mobilenetv2,three-toed sloth,2
+forest,mobilenetv2,tow truck,2
+forest,mobilenetv2,walking stick,2
+forest,mobilenetv2,African hunting dog,1
+forest,mobilenetv2,American egret,1
+forest,mobilenetv2,Arctic fox,1
+forest,mobilenetv2,Bouvier des Flandres,1
+forest,mobilenetv2,English setter,1
+forest,mobilenetv2,European gallinule,1
+forest,mobilenetv2,academic gown,1
+forest,mobilenetv2,ant,1
+forest,mobilenetv2,armadillo,1
+forest,mobilenetv2,assault rifle,1
+forest,mobilenetv2,balance beam,1
+forest,mobilenetv2,bald eagle,1
+forest,mobilenetv2,ballpoint,1
+forest,mobilenetv2,bannister,1
+forest,mobilenetv2,barn,1
+forest,mobilenetv2,barrel,1
+forest,mobilenetv2,bicycle-built-for-two,1
+forest,mobilenetv2,boathouse,1
+forest,mobilenetv2,bobsled,1
+forest,mobilenetv2,bolete,1
+forest,mobilenetv2,brassiere,1
+forest,mobilenetv2,broccoli,1
+forest,mobilenetv2,broom,1
+forest,mobilenetv2,brown bear,1
+forest,mobilenetv2,buckeye,1
+forest,mobilenetv2,bulletproof vest,1
+forest,mobilenetv2,castle,1
+forest,mobilenetv2,croquet ball,1
+forest,mobilenetv2,dome,1
+forest,mobilenetv2,gas pump,1
+forest,mobilenetv2,gazelle,1
+forest,mobilenetv2,golfcart,1
+forest,mobilenetv2,great grey owl,1
+forest,mobilenetv2,green snake,1
+forest,mobilenetv2,guillotine,1
+forest,mobilenetv2,harvester,1
+forest,mobilenetv2,hay,1
+forest,mobilenetv2,head cabbage,1
+forest,mobilenetv2,hoopskirt,1
+forest,mobilenetv2,howler monkey,1
+forest,mobilenetv2,ice lolly,1
+forest,mobilenetv2,jay,1
+forest,mobilenetv2,jean,1
+forest,mobilenetv2,jeep,1
+forest,mobilenetv2,jigsaw puzzle,1
+forest,mobilenetv2,kelpie,1
+forest,mobilenetv2,kite,1
+forest,mobilenetv2,komondor,1
+forest,mobilenetv2,lampshade,1
+forest,mobilenetv2,lawn mower,1
+forest,mobilenetv2,macaw,1
+forest,mobilenetv2,minibus,1
+forest,mobilenetv2,miniskirt,1
+forest,mobilenetv2,minivan,1
+forest,mobilenetv2,mink,1
+forest,mobilenetv2,monastery,1
+forest,mobilenetv2,moped,1
+forest,mobilenetv2,motor scooter,1
+forest,mobilenetv2,mountain tent,1
+forest,mobilenetv2,obelisk,1
+forest,mobilenetv2,orangutan,1
+forest,mobilenetv2,patio,1
+forest,mobilenetv2,picket fence,1
+forest,mobilenetv2,plastic bag,1
+forest,mobilenetv2,prison,1
+forest,mobilenetv2,proboscis monkey,1
+forest,mobilenetv2,projectile,1
+forest,mobilenetv2,promontory,1
+forest,mobilenetv2,punching bag,1
+forest,mobilenetv2,radio telescope,1
+forest,mobilenetv2,red fox,1
+forest,mobilenetv2,restaurant,1
+forest,mobilenetv2,robin,1
+forest,mobilenetv2,sandbar,1
+forest,mobilenetv2,sarong,1
+forest,mobilenetv2,sea urchin,1
+forest,mobilenetv2,shopping cart,1
+forest,mobilenetv2,spider web,1
+forest,mobilenetv2,strawberry,1
+forest,mobilenetv2,street sign,1
+forest,mobilenetv2,sundial,1
+forest,mobilenetv2,tench,1
+forest,mobilenetv2,tractor,1
+forest,mobilenetv2,traffic light,1
+forest,mobilenetv2,umbrella,1
+forest,mobilenetv2,vase,1
+forest,mobilenetv2,vault,1
+forest,mobilenetv2,warthog,1
+forest,mobilenetv2,water buffalo,1
+forest,mobilenetv2,water tower,1
+forest,mobilenetv2,wild boar,1
+forest,mobilenetv2,window screen,1
+forest,mobilenetv2,yellow lady's slipper,1
+forest,mobilenetv2,yurt,1
+forest,resnet18,valley,91
+forest,resnet18,lakeside,39
+forest,resnet18,worm fence,37
+forest,resnet18,mountain bike,33
+forest,resnet18,suspension bridge,17
+forest,resnet18,park bench,13
+forest,resnet18,alp,12
+forest,resnet18,fountain,10
+forest,resnet18,snowmobile,10
+forest,resnet18,cliff,8
+forest,resnet18,stone wall,8
+forest,resnet18,swing,7
+forest,resnet18,bittern,6
+forest,resnet18,cloak,6
+forest,resnet18,chime,5
+forest,resnet18,greenhouse,5
+forest,resnet18,apiary,4
+forest,resnet18,geyser,4
+forest,resnet18,maze,4
+forest,resnet18,mountain tent,4
+forest,resnet18,organ,4
+forest,resnet18,picket fence,4
+forest,resnet18,rapeseed,4
+forest,resnet18,trailer truck,4
+forest,resnet18,bison,3
+forest,resnet18,dam,3
+forest,resnet18,hartebeest,3
+forest,resnet18,howler monkey,3
+forest,resnet18,impala,3
+forest,resnet18,jeep,3
+forest,resnet18,lumbermill,3
+forest,resnet18,orangutan,3
+forest,resnet18,sandbar,3
+forest,resnet18,shower curtain,3
+forest,resnet18,viaduct,3
+forest,resnet18,American alligator,2
+forest,resnet18,barn,2
+forest,resnet18,birdhouse,2
+forest,resnet18,buckeye,2
+forest,resnet18,canoe,2
+forest,resnet18,capuchin,2
+forest,resnet18,car mirror,2
+forest,resnet18,ear,2
+forest,resnet18,jean,2
+forest,resnet18,lawn mower,2
+forest,resnet18,macaw,2
+forest,resnet18,megalith,2
+forest,resnet18,minivan,2
+forest,resnet18,oxcart,2
+forest,resnet18,pot,2
+forest,resnet18,radio telescope,2
+forest,resnet18,sea urchin,2
+forest,resnet18,snowplow,2
+forest,resnet18,spider monkey,2
+forest,resnet18,thatch,2
+forest,resnet18,unicycle,2
+forest,resnet18,African hunting dog,1
+forest,resnet18,American black bear,1
+forest,resnet18,Arabian camel,1
+forest,resnet18,Arctic fox,1
+forest,resnet18,European gallinule,1
+forest,resnet18,Granny Smith,1
+forest,resnet18,Great Dane,1
+forest,resnet18,Komodo dragon,1
+forest,resnet18,Madagascar cat,1
+forest,resnet18,Newfoundland,1
+forest,resnet18,Scottish deerhound,1
+forest,resnet18,ballpoint,1
+forest,resnet18,bannister,1
+forest,resnet18,barrel,1
+forest,resnet18,bicycle-built-for-two,1
+forest,resnet18,bighorn,1
+forest,resnet18,boathouse,1
+forest,resnet18,bow,1
+forest,resnet18,broccoli,1
+forest,resnet18,bulbul,1
+forest,resnet18,cabbage butterfly,1
+forest,resnet18,cannon,1
+forest,resnet18,centipede,1
+forest,resnet18,chainlink fence,1
+forest,resnet18,chickadee,1
+forest,resnet18,church,1
+forest,resnet18,colobus,1
+forest,resnet18,common newt,1
+forest,resnet18,coral fungus,1
+forest,resnet18,cowboy boot,1
+forest,resnet18,curly-coated retriever,1
+forest,resnet18,dogsled,1
+forest,resnet18,electric ray,1
+forest,resnet18,flagpole,1
+forest,resnet18,gazelle,1
+forest,resnet18,giant panda,1
+forest,resnet18,giant schnauzer,1
+forest,resnet18,go-kart,1
+forest,resnet18,gorilla,1
+forest,resnet18,great grey owl,1
+forest,resnet18,green mamba,1
+forest,resnet18,harvester,1
+forest,resnet18,hen-of-the-woods,1
+forest,resnet18,horse cart,1
+forest,resnet18,ibex,1
+forest,resnet18,jackfruit,1
+forest,resnet18,little blue heron,1
+forest,resnet18,long-horned beetle,1
+forest,resnet18,lorikeet,1
+forest,resnet18,mailbox,1
+forest,resnet18,maypole,1
+forest,resnet18,milk can,1
+forest,resnet18,mobile home,1
+forest,resnet18,moped,1
+forest,resnet18,neck brace,1
+forest,resnet18,overskirt,1
+forest,resnet18,panpipe,1
+forest,resnet18,patio,1
+forest,resnet18,pay-phone,1
+forest,resnet18,planetarium,1
+forest,resnet18,pole,1
+forest,resnet18,red wolf,1
+forest,resnet18,redbone,1
+forest,resnet18,restaurant,1
+forest,resnet18,robin,1
+forest,resnet18,ruffed grouse,1
+forest,resnet18,sarong,1
+forest,resnet18,siamang,1
+forest,resnet18,snorkel,1
+forest,resnet18,solar dish,1
+forest,resnet18,street sign,1
+forest,resnet18,streetcar,1
+forest,resnet18,stretcher,1
+forest,resnet18,sulphur butterfly,1
+forest,resnet18,tench,1
+forest,resnet18,three-toed sloth,1
+forest,resnet18,torch,1
+forest,resnet18,tricycle,1
+forest,resnet18,tusker,1
+forest,resnet18,volcano,1
+forest,resnet18,wallaby,1
+forest,resnet18,water tower,1
+forest,resnet18,wig,1
+forest,resnet18,window screen,1
+forest,resnet18,wood rabbit,1
+forest,resnet18,zebra,1
+forest,vgg16,valley,92
+forest,vgg16,lakeside,29
+forest,vgg16,worm fence,29
+forest,vgg16,mountain bike,27
+forest,vgg16,mountain tent,25
+forest,vgg16,suspension bridge,17
+forest,vgg16,stone wall,10
+forest,vgg16,greenhouse,9
+forest,vgg16,swing,9
+forest,vgg16,alp,7
+forest,vgg16,bittern,6
+forest,vgg16,chime,6
+forest,vgg16,cliff,6
+forest,vgg16,cloak,6
+forest,vgg16,geyser,6
+forest,vgg16,volcano,6
+forest,vgg16,dogsled,5
+forest,vgg16,ear,5
+forest,vgg16,maze,5
+forest,vgg16,megalith,5
+forest,vgg16,park bench,5
+forest,vgg16,boathouse,4
+forest,vgg16,howler monkey,4
+forest,vgg16,peacock,4
+forest,vgg16,snowmobile,4
+forest,vgg16,viaduct,4
+forest,vgg16,water buffalo,4
+forest,vgg16,bicycle-built-for-two,3
+forest,vgg16,birdhouse,3
+forest,vgg16,canoe,3
+forest,vgg16,fountain,3
+forest,vgg16,great grey owl,3
+forest,vgg16,hartebeest,3
+forest,vgg16,hen-of-the-woods,3
+forest,vgg16,maypole,3
+forest,vgg16,shower curtain,3
+forest,vgg16,yurt,3
+forest,vgg16,American black bear,2
+forest,vgg16,apiary,2
+forest,vgg16,barn,2
+forest,vgg16,beaver,2
+forest,vgg16,buckeye,2
+forest,vgg16,capuchin,2
+forest,vgg16,car mirror,2
+forest,vgg16,chain saw,2
+forest,vgg16,church,2
+forest,vgg16,dam,2
+forest,vgg16,go-kart,2
+forest,vgg16,half track,2
+forest,vgg16,jeep,2
+forest,vgg16,macaw,2
+forest,vgg16,minibus,2
+forest,vgg16,minivan,2
+forest,vgg16,organ,2
+forest,vgg16,patio,2
+forest,vgg16,prison,2
+forest,vgg16,punching bag,2
+forest,vgg16,sandbar,2
+forest,vgg16,sarong,2
+forest,vgg16,sea urchin,2
+forest,vgg16,snowplow,2
+forest,vgg16,spider monkey,2
+forest,vgg16,spider web,2
+forest,vgg16,street sign,2
+forest,vgg16,three-toed sloth,2
+forest,vgg16,tusker,2
+forest,vgg16,walking stick,2
+forest,vgg16,wallaby,2
+forest,vgg16,wing,2
+forest,vgg16,yellow lady's slipper,2
+forest,vgg16,American egret,1
+forest,vgg16,Arctic fox,1
+forest,vgg16,European gallinule,1
+forest,vgg16,Great Dane,1
+forest,vgg16,Komodo dragon,1
+forest,vgg16,armadillo,1
+forest,vgg16,balance beam,1
+forest,vgg16,bighorn,1
+forest,vgg16,bison,1
+forest,vgg16,black stork,1
+forest,vgg16,bobsled,1
+forest,vgg16,bow,1
+forest,vgg16,broom,1
+forest,vgg16,bubble,1
+forest,vgg16,castle,1
+forest,vgg16,chainlink fence,1
+forest,vgg16,coral fungus,1
+forest,vgg16,cowboy boot,1
+forest,vgg16,crash helmet,1
+forest,vgg16,croquet ball,1
+forest,vgg16,cucumber,1
+forest,vgg16,flagpole,1
+forest,vgg16,giant schnauzer,1
+forest,vgg16,green mamba,1
+forest,vgg16,head cabbage,1
+forest,vgg16,hen,1
+forest,vgg16,horse cart,1
+forest,vgg16,impala,1
+forest,vgg16,jackfruit,1
+forest,vgg16,jay,1
+forest,vgg16,kite,1
+forest,vgg16,lawn mower,1
+forest,vgg16,limousine,1
+forest,vgg16,lumbermill,1
+forest,vgg16,mobile home,1
+forest,vgg16,monastery,1
+forest,vgg16,neck brace,1
+forest,vgg16,obelisk,1
+forest,vgg16,orangutan,1
+forest,vgg16,paintbrush,1
+forest,vgg16,picket fence,1
+forest,vgg16,pinwheel,1
+forest,vgg16,planetarium,1
+forest,vgg16,plow,1
+forest,vgg16,pot,1
+forest,vgg16,radio telescope,1
+forest,vgg16,rifle,1
+forest,vgg16,ruffed grouse,1
+forest,vgg16,scuba diver,1
+forest,vgg16,seashore,1
+forest,vgg16,ski,1
+forest,vgg16,skunk,1
+forest,vgg16,sliding door,1
+forest,vgg16,sloth bear,1
+forest,vgg16,steel arch bridge,1
+forest,vgg16,streetcar,1
+forest,vgg16,swimming trunks,1
+forest,vgg16,thatch,1
+forest,vgg16,totem pole,1
+forest,vgg16,toy terrier,1
+forest,vgg16,tree frog,1
+forest,vgg16,turnstile,1
+forest,vgg16,vestment,1
+forest,vgg16,water tower,1
+forest,vgg16,window screen,1
+glacier,mobilenetv2,alp,142
+glacier,mobilenetv2,seashore,30
+glacier,mobilenetv2,cliff,28
+glacier,mobilenetv2,promontory,28
+glacier,mobilenetv2,valley,28
+glacier,mobilenetv2,lakeside,22
+glacier,mobilenetv2,ski,15
+glacier,mobilenetv2,volcano,12
+glacier,mobilenetv2,plastic bag,10
+glacier,mobilenetv2,dam,6
+glacier,mobilenetv2,geyser,6
+glacier,mobilenetv2,ice bear,6
+glacier,mobilenetv2,snowplow,6
+glacier,mobilenetv2,submarine,6
+glacier,mobilenetv2,breakwater,5
+glacier,mobilenetv2,fireboat,5
+glacier,mobilenetv2,killer whale,5
+glacier,mobilenetv2,king penguin,5
+glacier,mobilenetv2,mountain tent,5
+glacier,mobilenetv2,Arctic fox,4
+glacier,mobilenetv2,canoe,4
+glacier,mobilenetv2,shovel,4
+glacier,mobilenetv2,speedboat,4
+glacier,mobilenetv2,wreck,4
+glacier,mobilenetv2,dogsled,3
+glacier,mobilenetv2,drilling platform,3
+glacier,mobilenetv2,grey whale,3
+glacier,mobilenetv2,snowmobile,3
+glacier,mobilenetv2,wing,3
+glacier,mobilenetv2,yawl,3
+glacier,mobilenetv2,albatross,2
+glacier,mobilenetv2,bobsled,2
+glacier,mobilenetv2,bow,2
+glacier,mobilenetv2,drake,2
+glacier,mobilenetv2,hoopskirt,2
+glacier,mobilenetv2,jeep,2
+glacier,mobilenetv2,pelican,2
+glacier,mobilenetv2,quilt,2
+glacier,mobilenetv2,sandbar,2
+glacier,mobilenetv2,sundial,2
+glacier,mobilenetv2,swing,2
+glacier,mobilenetv2,tiger shark,2
+glacier,mobilenetv2,toilet tissue,2
+glacier,mobilenetv2,weasel,2
+glacier,mobilenetv2,Greater Swiss Mountain dog,1
+glacier,mobilenetv2,Maltese dog,1
+glacier,mobilenetv2,Sealyham terrier,1
+glacier,mobilenetv2,abaya,1
+glacier,mobilenetv2,aircraft carrier,1
+glacier,mobilenetv2,airship,1
+glacier,mobilenetv2,amphibian,1
+glacier,mobilenetv2,ant,1
+glacier,mobilenetv2,bald eagle,1
+glacier,mobilenetv2,balloon,1
+glacier,mobilenetv2,barn spider,1
+glacier,mobilenetv2,black grouse,1
+glacier,mobilenetv2,broom,1
+glacier,mobilenetv2,car mirror,1
+glacier,mobilenetv2,catamaran,1
+glacier,mobilenetv2,chambered nautilus,1
+glacier,mobilenetv2,cliff dwelling,1
+glacier,mobilenetv2,cougar,1
+glacier,mobilenetv2,diaper,1
+glacier,mobilenetv2,giant schnauzer,1
+glacier,mobilenetv2,golden retriever,1
+glacier,mobilenetv2,gown,1
+glacier,mobilenetv2,hog,1
+glacier,mobilenetv2,honeycomb,1
+glacier,mobilenetv2,jellyfish,1
+glacier,mobilenetv2,knot,1
+glacier,mobilenetv2,komondor,1
+glacier,mobilenetv2,leatherback turtle,1
+glacier,mobilenetv2,liner,1
+glacier,mobilenetv2,lumbermill,1
+glacier,mobilenetv2,maze,1
+glacier,mobilenetv2,mortar,1
+glacier,mobilenetv2,otter,1
+glacier,mobilenetv2,oxygen mask,1
+glacier,mobilenetv2,oystercatcher,1
+glacier,mobilenetv2,paper towel,1
+glacier,mobilenetv2,papillon,1
+glacier,mobilenetv2,parachute,1
+glacier,mobilenetv2,park bench,1
+glacier,mobilenetv2,partridge,1
+glacier,mobilenetv2,patas,1
+glacier,mobilenetv2,pole,1
+glacier,mobilenetv2,rock crab,1
+glacier,mobilenetv2,ruffed grouse,1
+glacier,mobilenetv2,sarong,1
+glacier,mobilenetv2,schooner,1
+glacier,mobilenetv2,sea lion,1
+glacier,mobilenetv2,shoji,1
+glacier,mobilenetv2,ski mask,1
+glacier,mobilenetv2,sleeping bag,1
+glacier,mobilenetv2,snow leopard,1
+glacier,mobilenetv2,spotlight,1
+glacier,mobilenetv2,sturgeon,1
+glacier,mobilenetv2,swab,1
+glacier,mobilenetv2,sweatshirt,1
+glacier,mobilenetv2,swimming trunks,1
+glacier,mobilenetv2,tray,1
+glacier,mobilenetv2,trilobite,1
+glacier,mobilenetv2,trolleybus,1
+glacier,mobilenetv2,tub,1
+glacier,mobilenetv2,umbrella,1
+glacier,mobilenetv2,warplane,1
+glacier,mobilenetv2,window screen,1
+glacier,mobilenetv2,window shade,1
+glacier,resnet18,alp,133
+glacier,resnet18,promontory,30
+glacier,resnet18,lakeside,22
+glacier,resnet18,valley,22
+glacier,resnet18,volcano,20
+glacier,resnet18,cliff,19
+glacier,resnet18,ski,19
+glacier,resnet18,seashore,17
+glacier,resnet18,dogsled,10
+glacier,resnet18,snowmobile,10
+glacier,resnet18,shovel,8
+glacier,resnet18,grey whale,7
+glacier,resnet18,killer whale,7
+glacier,resnet18,geyser,6
+glacier,resnet18,ice bear,6
+glacier,resnet18,sandbar,6
+glacier,resnet18,snowplow,6
+glacier,resnet18,fireboat,5
+glacier,resnet18,plastic bag,5
+glacier,resnet18,Arctic fox,4
+glacier,resnet18,dam,4
+glacier,resnet18,king penguin,4
+glacier,resnet18,ptarmigan,4
+glacier,resnet18,sea lion,4
+glacier,resnet18,television,4
+glacier,resnet18,albatross,3
+glacier,resnet18,breakwater,3
+glacier,resnet18,coho,3
+glacier,resnet18,dugong,3
+glacier,resnet18,mountain tent,3
+glacier,resnet18,submarine,3
+glacier,resnet18,wing,3
+glacier,resnet18,airship,2
+glacier,resnet18,bannister,2
+glacier,resnet18,bobsled,2
+glacier,resnet18,drake,2
+glacier,resnet18,drilling platform,2
+glacier,resnet18,leatherback turtle,2
+glacier,resnet18,maze,2
+glacier,resnet18,necklace,2
+glacier,resnet18,oystercatcher,2
+glacier,resnet18,pole,2
+glacier,resnet18,sarong,2
+glacier,resnet18,speedboat,2
+glacier,resnet18,stone wall,2
+glacier,resnet18,sturgeon,2
+glacier,resnet18,American alligator,1
+glacier,resnet18,American black bear,1
+glacier,resnet18,American egret,1
+glacier,resnet18,Great Pyrenees,1
+glacier,resnet18,Samoyed,1
+glacier,resnet18,West Highland white terrier,1
+glacier,resnet18,abaya,1
+glacier,resnet18,aircraft carrier,1
+glacier,resnet18,amphibian,1
+glacier,resnet18,bagel,1
+glacier,resnet18,bald eagle,1
+glacier,resnet18,balloon,1
+glacier,resnet18,bathtub,1
+glacier,resnet18,beacon,1
+glacier,resnet18,beaver,1
+glacier,resnet18,black swan,1
+glacier,resnet18,bonnet,1
+glacier,resnet18,borzoi,1
+glacier,resnet18,canoe,1
+glacier,resnet18,catamaran,1
+glacier,resnet18,container ship,1
+glacier,resnet18,crate,1
+glacier,resnet18,fountain,1
+glacier,resnet18,gorilla,1
+glacier,resnet18,great white shark,1
+glacier,resnet18,groom,1
+glacier,resnet18,hen,1
+glacier,resnet18,hen-of-the-woods,1
+glacier,resnet18,ibex,1
+glacier,resnet18,jellyfish,1
+glacier,resnet18,junco,1
+glacier,resnet18,liner,1
+glacier,resnet18,loggerhead,1
+glacier,resnet18,malamute,1
+glacier,resnet18,manhole cover,1
+glacier,resnet18,mink,1
+glacier,resnet18,monitor,1
+glacier,resnet18,nail,1
+glacier,resnet18,paddle,1
+glacier,resnet18,paddlewheel,1
+glacier,resnet18,papillon,1
+glacier,resnet18,parachute,1
+glacier,resnet18,park bench,1
+glacier,resnet18,partridge,1
+glacier,resnet18,pelican,1
+glacier,resnet18,prayer rug,1
+glacier,resnet18,quilt,1
+glacier,resnet18,redshank,1
+glacier,resnet18,rock crab,1
+glacier,resnet18,running shoe,1
+glacier,resnet18,sax,1
+glacier,resnet18,scabbard,1
+glacier,resnet18,schooner,1
+glacier,resnet18,seat belt,1
+glacier,resnet18,snorkel,1
+glacier,resnet18,spotlight,1
+glacier,resnet18,stage,1
+glacier,resnet18,stingray,1
+glacier,resnet18,stretcher,1
+glacier,resnet18,swab,1
+glacier,resnet18,thatch,1
+glacier,resnet18,tiger shark,1
+glacier,resnet18,trimaran,1
+glacier,resnet18,tub,1
+glacier,resnet18,umbrella,1
+glacier,resnet18,warplane,1
+glacier,resnet18,weasel,1
+glacier,resnet18,wreck,1
+glacier,resnet18,yawl,1
+glacier,vgg16,alp,143
+glacier,vgg16,valley,29
+glacier,vgg16,promontory,23
+glacier,vgg16,seashore,23
+glacier,vgg16,cliff,18
+glacier,vgg16,ski,18
+glacier,vgg16,breakwater,15
+glacier,vgg16,lakeside,15
+glacier,vgg16,volcano,15
+glacier,vgg16,ice bear,11
+glacier,vgg16,snowmobile,11
+glacier,vgg16,fireboat,9
+glacier,vgg16,plastic bag,9
+glacier,vgg16,wing,7
+glacier,vgg16,snowplow,6
+glacier,vgg16,dam,5
+glacier,vgg16,dogsled,5
+glacier,vgg16,king penguin,5
+glacier,vgg16,geyser,4
+glacier,vgg16,killer whale,4
+glacier,vgg16,speedboat,4
+glacier,vgg16,drilling platform,3
+glacier,vgg16,great white shark,3
+glacier,vgg16,jellyfish,3
+glacier,vgg16,ptarmigan,3
+glacier,vgg16,shovel,3
+glacier,vgg16,wreck,3
+glacier,vgg16,Cardigan,2
+glacier,vgg16,Samoyed,2
+glacier,vgg16,aircraft carrier,2
+glacier,vgg16,albatross,2
+glacier,vgg16,bathtub,2
+glacier,vgg16,beaver,2
+glacier,vgg16,bobsled,2
+glacier,vgg16,catamaran,2
+glacier,vgg16,coho,2
+glacier,vgg16,conch,2
+glacier,vgg16,drake,2
+glacier,vgg16,grey whale,2
+glacier,vgg16,hen-of-the-woods,2
+glacier,vgg16,mountain tent,2
+glacier,vgg16,paddle,2
+glacier,vgg16,parachute,2
+glacier,vgg16,pelican,2
+glacier,vgg16,sandbar,2
+glacier,vgg16,stone wall,2
+glacier,vgg16,trimaran,2
+glacier,vgg16,warplane,2
+glacier,vgg16,Arctic fox,1
+glacier,vgg16,Blenheim spaniel,1
+glacier,vgg16,Bouvier des Flandres,1
+glacier,vgg16,French bulldog,1
+glacier,vgg16,Great Pyrenees,1
+glacier,vgg16,Greater Swiss Mountain dog,1
+glacier,vgg16,Ibizan hound,1
+glacier,vgg16,abaya,1
+glacier,vgg16,academic gown,1
+glacier,vgg16,airship,1
+glacier,vgg16,amphibian,1
+glacier,vgg16,ant,1
+glacier,vgg16,bald eagle,1
+glacier,vgg16,balloon,1
+glacier,vgg16,black grouse,1
+glacier,vgg16,brassiere,1
+glacier,vgg16,car mirror,1
+glacier,vgg16,cliff dwelling,1
+glacier,vgg16,cloak,1
+glacier,vgg16,container ship,1
+glacier,vgg16,dowitcher,1
+glacier,vgg16,dugong,1
+glacier,vgg16,electric ray,1
+glacier,vgg16,goose,1
+glacier,vgg16,gown,1
+glacier,vgg16,hair slide,1
+glacier,vgg16,hammerhead,1
+glacier,vgg16,ibex,1
+glacier,vgg16,isopod,1
+glacier,vgg16,junco,1
+glacier,vgg16,lab coat,1
+glacier,vgg16,leatherback turtle,1
+glacier,vgg16,liner,1
+glacier,vgg16,lionfish,1
+glacier,vgg16,maze,1
+glacier,vgg16,mosquito net,1
+glacier,vgg16,moving van,1
+glacier,vgg16,necklace,1
+glacier,vgg16,oxygen mask,1
+glacier,vgg16,park bench,1
+glacier,vgg16,pier,1
+glacier,vgg16,plate rack,1
+glacier,vgg16,pole,1
+glacier,vgg16,prison,1
+glacier,vgg16,sea cucumber,1
+glacier,vgg16,sea lion,1
+glacier,vgg16,shower curtain,1
+glacier,vgg16,ski mask,1
+glacier,vgg16,spotlight,1
+glacier,vgg16,stage,1
+glacier,vgg16,stingray,1
+glacier,vgg16,sundial,1
+glacier,vgg16,swab,1
+glacier,vgg16,tiger shark,1
+glacier,vgg16,toilet tissue,1
+glacier,vgg16,trailer truck,1
+glacier,vgg16,trilobite,1
+glacier,vgg16,trolleybus,1
+glacier,vgg16,vault,1
+glacier,vgg16,water ouzel,1
+glacier,vgg16,yawl,1
+mountain,mobilenetv2,alp,121
+mountain,mobilenetv2,volcano,89
+mountain,mobilenetv2,valley,82
+mountain,mobilenetv2,cliff,67
+mountain,mobilenetv2,lakeside,16
+mountain,mobilenetv2,geyser,14
+mountain,mobilenetv2,mountain bike,9
+mountain,mobilenetv2,promontory,9
+mountain,mobilenetv2,seashore,9
+mountain,mobilenetv2,cliff dwelling,7
+mountain,mobilenetv2,lumbermill,4
+mountain,mobilenetv2,jeep,3
+mountain,mobilenetv2,stone wall,3
+mountain,mobilenetv2,canoe,2
+mountain,mobilenetv2,castle,2
+mountain,mobilenetv2,dam,2
+mountain,mobilenetv2,kuvasz,2
+mountain,mobilenetv2,megalith,2
+mountain,mobilenetv2,monastery,2
+mountain,mobilenetv2,paddle,2
+mountain,mobilenetv2,pole,2
+mountain,mobilenetv2,ski,2
+mountain,mobilenetv2,steam locomotive,2
+mountain,mobilenetv2,torch,2
+mountain,mobilenetv2,viaduct,2
+mountain,mobilenetv2,worm fence,2
+mountain,mobilenetv2,Arctic fox,1
+mountain,mobilenetv2,apiary,1
+mountain,mobilenetv2,bakery,1
+mountain,mobilenetv2,barn spider,1
+mountain,mobilenetv2,bighorn,1
+mountain,mobilenetv2,bow,1
+mountain,mobilenetv2,broom,1
+mountain,mobilenetv2,burrito,1
+mountain,mobilenetv2,feather boa,1
+mountain,mobilenetv2,flamingo,1
+mountain,mobilenetv2,fountain,1
+mountain,mobilenetv2,gyromitra,1
+mountain,mobilenetv2,hay,1
+mountain,mobilenetv2,hen,1
+mountain,mobilenetv2,ibex,1
+mountain,mobilenetv2,leatherback turtle,1
+mountain,mobilenetv2,marmot,1
+mountain,mobilenetv2,maze,1
+mountain,mobilenetv2,meerkat,1
+mountain,mobilenetv2,moped,1
+mountain,mobilenetv2,mosquito net,1
+mountain,mobilenetv2,neck brace,1
+mountain,mobilenetv2,park bench,1
+mountain,mobilenetv2,platypus,1
+mountain,mobilenetv2,potter's wheel,1
+mountain,mobilenetv2,quilt,1
+mountain,mobilenetv2,recreational vehicle,1
+mountain,mobilenetv2,sandbar,1
+mountain,mobilenetv2,sliding door,1
+mountain,mobilenetv2,snowmobile,1
+mountain,mobilenetv2,snowplow,1
+mountain,mobilenetv2,solar dish,1
+mountain,mobilenetv2,space shuttle,1
+mountain,mobilenetv2,stole,1
+mountain,mobilenetv2,stretcher,1
+mountain,mobilenetv2,suspension bridge,1
+mountain,mobilenetv2,television,1
+mountain,mobilenetv2,theater curtain,1
+mountain,mobilenetv2,tiger shark,1
+mountain,mobilenetv2,velvet,1
+mountain,mobilenetv2,water buffalo,1
+mountain,resnet18,alp,123
+mountain,resnet18,valley,93
+mountain,resnet18,volcano,92
+mountain,resnet18,cliff,46
+mountain,resnet18,lakeside,18
+mountain,resnet18,cliff dwelling,13
+mountain,resnet18,geyser,10
+mountain,resnet18,seashore,10
+mountain,resnet18,mountain bike,8
+mountain,resnet18,promontory,6
+mountain,resnet18,worm fence,6
+mountain,resnet18,canoe,4
+mountain,resnet18,stone wall,4
+mountain,resnet18,bighorn,3
+mountain,resnet18,dam,3
+mountain,resnet18,sandbar,3
+mountain,resnet18,Arabian camel,2
+mountain,resnet18,barn,2
+mountain,resnet18,beacon,2
+mountain,resnet18,ice bear,2
+mountain,resnet18,jeep,2
+mountain,resnet18,monastery,2
+mountain,resnet18,motor scooter,2
+mountain,resnet18,ski,2
+mountain,resnet18,snowmobile,2
+mountain,resnet18,viaduct,2
+mountain,resnet18,African elephant,1
+mountain,resnet18,Chesapeake Bay retriever,1
+mountain,resnet18,English setter,1
+mountain,resnet18,Gila monster,1
+mountain,resnet18,brassiere,1
+mountain,resnet18,chimpanzee,1
+mountain,resnet18,colobus,1
+mountain,resnet18,coucal,1
+mountain,resnet18,crutch,1
+mountain,resnet18,feather boa,1
+mountain,resnet18,flagpole,1
+mountain,resnet18,fountain,1
+mountain,resnet18,grocery store,1
+mountain,resnet18,gyromitra,1
+mountain,resnet18,ibex,1
+mountain,resnet18,jigsaw puzzle,1
+mountain,resnet18,leatherback turtle,1
+mountain,resnet18,lumbermill,1
+mountain,resnet18,marmot,1
+mountain,resnet18,mosquito net,1
+mountain,resnet18,moving van,1
+mountain,resnet18,neck brace,1
+mountain,resnet18,ox,1
+mountain,resnet18,paintbrush,1
+mountain,resnet18,park bench,1
+mountain,resnet18,passenger car,1
+mountain,resnet18,pier,1
+mountain,resnet18,red wine,1
+mountain,resnet18,screen,1
+mountain,resnet18,sea urchin,1
+mountain,resnet18,solar dish,1
+mountain,resnet18,space shuttle,1
+mountain,resnet18,speedboat,1
+mountain,resnet18,spider web,1
+mountain,resnet18,steam locomotive,1
+mountain,resnet18,television,1
+mountain,resnet18,torch,1
+mountain,resnet18,trailer truck,1
+mountain,vgg16,alp,127
+mountain,vgg16,volcano,97
+mountain,vgg16,valley,78
+mountain,vgg16,cliff,62
+mountain,vgg16,geyser,15
+mountain,vgg16,lakeside,15
+mountain,vgg16,cliff dwelling,10
+mountain,vgg16,mountain bike,8
+mountain,vgg16,promontory,6
+mountain,vgg16,stone wall,4
+mountain,vgg16,worm fence,4
+mountain,vgg16,paddle,3
+mountain,vgg16,seashore,3
+mountain,vgg16,dam,2
+mountain,vgg16,ice bear,2
+mountain,vgg16,jeep,2
+mountain,vgg16,lumbermill,2
+mountain,vgg16,mosquito net,2
+mountain,vgg16,mountain tent,2
+mountain,vgg16,pole,2
+mountain,vgg16,sandbar,2
+mountain,vgg16,ski,2
+mountain,vgg16,suspension bridge,2
+mountain,vgg16,Arabian camel,1
+mountain,vgg16,Arctic fox,1
+mountain,vgg16,Christmas stocking,1
+mountain,vgg16,apiary,1
+mountain,vgg16,barn,1
+mountain,vgg16,beacon,1
+mountain,vgg16,bighorn,1
+mountain,vgg16,boathouse,1
+mountain,vgg16,canoe,1
+mountain,vgg16,castle,1
+mountain,vgg16,cauliflower,1
+mountain,vgg16,chain saw,1
+mountain,vgg16,cock,1
+mountain,vgg16,coucal,1
+mountain,vgg16,crash helmet,1
+mountain,vgg16,fireboat,1
+mountain,vgg16,flagpole,1
+mountain,vgg16,great white shark,1
+mountain,vgg16,grey whale,1
+mountain,vgg16,grocery store,1
+mountain,vgg16,hippopotamus,1
+mountain,vgg16,jigsaw puzzle,1
+mountain,vgg16,komondor,1
+mountain,vgg16,maze,1
+mountain,vgg16,megalith,1
+mountain,vgg16,missile,1
+mountain,vgg16,monastery,1
+mountain,vgg16,parachute,1
+mountain,vgg16,park bench,1
+mountain,vgg16,passenger car,1
+mountain,vgg16,plastic bag,1
+mountain,vgg16,porcupine,1
+mountain,vgg16,quilt,1
+mountain,vgg16,ram,1
+mountain,vgg16,recreational vehicle,1
+mountain,vgg16,screen,1
+mountain,vgg16,shovel,1
+mountain,vgg16,snowmobile,1
+mountain,vgg16,snowplow,1
+mountain,vgg16,steam locomotive,1
+mountain,vgg16,street sign,1
+mountain,vgg16,sundial,1
+mountain,vgg16,swimming trunks,1
+mountain,vgg16,swing,1
+mountain,vgg16,thatch,1
+mountain,vgg16,viaduct,1
+mountain,vgg16,web site,1
+mountain,vgg16,white wolf,1
+sea,mobilenetv2,seashore,141
+sea,mobilenetv2,promontory,47
+sea,mobilenetv2,sandbar,37
+sea,mobilenetv2,lakeside,29
+sea,mobilenetv2,dock,20
+sea,mobilenetv2,speedboat,20
+sea,mobilenetv2,cliff,11
+sea,mobilenetv2,submarine,8
+sea,mobilenetv2,aircraft carrier,7
+sea,mobilenetv2,drilling platform,7
+sea,mobilenetv2,killer whale,7
+sea,mobilenetv2,breakwater,6
+sea,mobilenetv2,fireboat,6
+sea,mobilenetv2,pier,6
+sea,mobilenetv2,valley,6
+sea,mobilenetv2,canoe,5
+sea,mobilenetv2,dam,5
+sea,mobilenetv2,geyser,5
+sea,mobilenetv2,schooner,5
+sea,mobilenetv2,trimaran,5
+sea,mobilenetv2,volcano,5
+sea,mobilenetv2,wreck,5
+sea,mobilenetv2,beacon,4
+sea,mobilenetv2,boathouse,4
+sea,mobilenetv2,catamaran,4
+sea,mobilenetv2,gondola,4
+sea,mobilenetv2,great white shark,4
+sea,mobilenetv2,paddle,4
+sea,mobilenetv2,sea lion,4
+sea,mobilenetv2,swimming trunks,4
+sea,mobilenetv2,alp,3
+sea,mobilenetv2,container ship,3
+sea,mobilenetv2,liner,3
+sea,mobilenetv2,pirate,3
+sea,mobilenetv2,pole,3
+sea,mobilenetv2,castle,2
+sea,mobilenetv2,grey whale,2
+sea,mobilenetv2,lifeboat,2
+sea,mobilenetv2,megalith,2
+sea,mobilenetv2,snorkel,2
+sea,mobilenetv2,worm fence,2
+sea,mobilenetv2,yawl,2
+sea,mobilenetv2,African hunting dog,1
+sea,mobilenetv2,Arabian camel,1
+sea,mobilenetv2,English foxhound,1
+sea,mobilenetv2,EntleBucher,1
+sea,mobilenetv2,French bulldog,1
+sea,mobilenetv2,West Highland white terrier,1
+sea,mobilenetv2,airship,1
+sea,mobilenetv2,albatross,1
+sea,mobilenetv2,amphibian,1
+sea,mobilenetv2,ashcan,1
+sea,mobilenetv2,bannister,1
+sea,mobilenetv2,barn,1
+sea,mobilenetv2,barn spider,1
+sea,mobilenetv2,bikini,1
+sea,mobilenetv2,chainlink fence,1
+sea,mobilenetv2,coho,1
+sea,mobilenetv2,convertible,1
+sea,mobilenetv2,curly-coated retriever,1
+sea,mobilenetv2,diaper,1
+sea,mobilenetv2,electric ray,1
+sea,mobilenetv2,fountain,1
+sea,mobilenetv2,giant schnauzer,1
+sea,mobilenetv2,go-kart,1
+sea,mobilenetv2,gown,1
+sea,mobilenetv2,hammerhead,1
+sea,mobilenetv2,jellyfish,1
+sea,mobilenetv2,leatherback turtle,1
+sea,mobilenetv2,lumbermill,1
+sea,mobilenetv2,maze,1
+sea,mobilenetv2,mosque,1
+sea,mobilenetv2,parachute,1
+sea,mobilenetv2,plow,1
+sea,mobilenetv2,pot,1
+sea,mobilenetv2,radio telescope,1
+sea,mobilenetv2,reel,1
+sea,mobilenetv2,rocking chair,1
+sea,mobilenetv2,sarong,1
+sea,mobilenetv2,schipperke,1
+sea,mobilenetv2,ski,1
+sea,mobilenetv2,stage,1
+sea,mobilenetv2,steel arch bridge,1
+sea,mobilenetv2,sunglass,1
+sea,mobilenetv2,television,1
+sea,mobilenetv2,tiger shark,1
+sea,mobilenetv2,torch,1
+sea,mobilenetv2,umbrella,1
+sea,resnet18,seashore,135
+sea,resnet18,promontory,44
+sea,resnet18,lakeside,40
+sea,resnet18,sandbar,38
+sea,resnet18,dock,21
+sea,resnet18,speedboat,17
+sea,resnet18,killer whale,11
+sea,resnet18,breakwater,8
+sea,resnet18,catamaran,8
+sea,resnet18,cliff,8
+sea,resnet18,beacon,7
+sea,resnet18,dam,7
+sea,resnet18,grey whale,7
+sea,resnet18,aircraft carrier,6
+sea,resnet18,geyser,6
+sea,resnet18,swimming trunks,6
+sea,resnet18,canoe,5
+sea,resnet18,drilling platform,5
+sea,resnet18,liner,5
+sea,resnet18,submarine,5
+sea,resnet18,lifeboat,4
+sea,resnet18,paddle,4
+sea,resnet18,pier,4
+sea,resnet18,sea lion,4
+sea,resnet18,castle,3
+sea,resnet18,container ship,3
+sea,resnet18,fireboat,3
+sea,resnet18,pirate,3
+sea,resnet18,snorkel,3
+sea,resnet18,trimaran,3
+sea,resnet18,volcano,3
+sea,resnet18,wreck,3
+sea,resnet18,alp,2
+sea,resnet18,bikini,2
+sea,resnet18,boathouse,2
+sea,resnet18,mobile home,2
+sea,resnet18,parachute,2
+sea,resnet18,pole,2
+sea,resnet18,sarong,2
+sea,resnet18,shovel,2
+sea,resnet18,sturgeon,2
+sea,resnet18,valley,2
+sea,resnet18,worm fence,2
+sea,resnet18,yawl,2
+sea,resnet18,Arabian camel,1
+sea,resnet18,Bouvier des Flandres,1
+sea,resnet18,Siberian husky,1
+sea,resnet18,West Highland white terrier,1
+sea,resnet18,albatross,1
+sea,resnet18,amphibian,1
+sea,resnet18,bathtub,1
+sea,resnet18,bell cote,1
+sea,resnet18,bluetick,1
+sea,resnet18,bucket,1
+sea,resnet18,coho,1
+sea,resnet18,conch,1
+sea,resnet18,convertible,1
+sea,resnet18,dugong,1
+sea,resnet18,electric ray,1
+sea,resnet18,folding chair,1
+sea,resnet18,fountain,1
+sea,resnet18,gar,1
+sea,resnet18,go-kart,1
+sea,resnet18,gown,1
+sea,resnet18,great white shark,1
+sea,resnet18,hair slide,1
+sea,resnet18,hammerhead,1
+sea,resnet18,jellyfish,1
+sea,resnet18,kuvasz,1
+sea,resnet18,megalith,1
+sea,resnet18,mosque,1
+sea,resnet18,palace,1
+sea,resnet18,park bench,1
+sea,resnet18,pug,1
+sea,resnet18,redbone,1
+sea,resnet18,restaurant,1
+sea,resnet18,schooner,1
+sea,resnet18,scorpion,1
+sea,resnet18,shopping cart,1
+sea,resnet18,ski,1
+sea,resnet18,solar dish,1
+sea,resnet18,stage,1
+sea,resnet18,standard schnauzer,1
+sea,resnet18,steam locomotive,1
+sea,resnet18,sunglass,1
+sea,resnet18,suspension bridge,1
+sea,resnet18,television,1
+sea,resnet18,tiger,1
+sea,resnet18,tiger shark,1
+sea,resnet18,torch,1
+sea,resnet18,tripod,1
+sea,vgg16,seashore,125
+sea,vgg16,promontory,45
+sea,vgg16,sandbar,36
+sea,vgg16,lakeside,34
+sea,vgg16,dock,27
+sea,vgg16,speedboat,23
+sea,vgg16,cliff,13
+sea,vgg16,breakwater,12
+sea,vgg16,paddle,11
+sea,vgg16,volcano,9
+sea,vgg16,aircraft carrier,8
+sea,vgg16,killer whale,7
+sea,vgg16,pier,7
+sea,vgg16,beacon,6
+sea,vgg16,catamaran,6
+sea,vgg16,grey whale,6
+sea,vgg16,wreck,6
+sea,vgg16,boathouse,5
+sea,vgg16,container ship,5
+sea,vgg16,drilling platform,5
+sea,vgg16,geyser,5
+sea,vgg16,liner,5
+sea,vgg16,sea lion,5
+sea,vgg16,trimaran,5
+sea,vgg16,great white shark,4
+sea,vgg16,pirate,4
+sea,vgg16,snorkel,4
+sea,vgg16,swimming trunks,4
+sea,vgg16,valley,4
+sea,vgg16,fireboat,3
+sea,vgg16,gondola,3
+sea,vgg16,leatherback turtle,3
+sea,vgg16,submarine,3
+sea,vgg16,bikini,2
+sea,vgg16,canoe,2
+sea,vgg16,lifeboat,2
+sea,vgg16,mobile home,2
+sea,vgg16,pole,2
+sea,vgg16,yawl,2
+sea,vgg16,Arabian camel,1
+sea,vgg16,English setter,1
+sea,vgg16,French bulldog,1
+sea,vgg16,Great Pyrenees,1
+sea,vgg16,Old English sheepdog,1
+sea,vgg16,West Highland white terrier,1
+sea,vgg16,albatross,1
+sea,vgg16,amphibian,1
+sea,vgg16,bannister,1
+sea,vgg16,barn,1
+sea,vgg16,castle,1
+sea,vgg16,coho,1
+sea,vgg16,convertible,1
+sea,vgg16,folding chair,1
+sea,vgg16,fountain,1
+sea,vgg16,gar,1
+sea,vgg16,greenhouse,1
+sea,vgg16,groom,1
+sea,vgg16,hammerhead,1
+sea,vgg16,hippopotamus,1
+sea,vgg16,hoopskirt,1
+sea,vgg16,hyena,1
+sea,vgg16,jellyfish,1
+sea,vgg16,knot,1
+sea,vgg16,maypole,1
+sea,vgg16,reel,1
+sea,vgg16,restaurant,1
+sea,vgg16,sarong,1
+sea,vgg16,schooner,1
+sea,vgg16,scuba diver,1
+sea,vgg16,ski,1
+sea,vgg16,sleeping bag,1
+sea,vgg16,steam locomotive,1
+sea,vgg16,stone wall,1
+sea,vgg16,sunglass,1
+sea,vgg16,sweatshirt,1
+sea,vgg16,television,1
+sea,vgg16,tiger shark,1
+sea,vgg16,trailer truck,1
+sea,vgg16,worm fence,1
+street,mobilenetv2,prison,33
+street,mobilenetv2,streetcar,26
+street,mobilenetv2,palace,20
+street,mobilenetv2,trailer truck,18
+street,mobilenetv2,jinrikisha,17
+street,mobilenetv2,seashore,16
+street,mobilenetv2,street sign,14
+street,mobilenetv2,unicycle,13
+street,mobilenetv2,bell cote,12
+street,mobilenetv2,lakeside,12
+street,mobilenetv2,steel arch bridge,11
+street,mobilenetv2,crutch,10
+street,mobilenetv2,obelisk,10
+street,mobilenetv2,limousine,9
+street,mobilenetv2,traffic light,9
+street,mobilenetv2,monastery,8
+street,mobilenetv2,vault,8
+street,mobilenetv2,mobile home,7
+street,mobilenetv2,pole,7
+street,mobilenetv2,valley,7
+street,mobilenetv2,maze,6
+street,mobilenetv2,pier,6
+street,mobilenetv2,tobacco shop,6
+street,mobilenetv2,bearskin,5
+street,mobilenetv2,bicycle-built-for-two,5
+street,mobilenetv2,cinema,5
+street,mobilenetv2,gondola,5
+street,mobilenetv2,minivan,5
+street,mobilenetv2,mosque,5
+street,mobilenetv2,trolleybus,5
+street,mobilenetv2,cab,4
+street,mobilenetv2,lumbermill,4
+street,mobilenetv2,motor scooter,4
+street,mobilenetv2,solar dish,4
+street,mobilenetv2,sports car,4
+street,mobilenetv2,worm fence,4
+street,mobilenetv2,bannister,3
+street,mobilenetv2,bullet train,3
+street,mobilenetv2,cliff,3
+street,mobilenetv2,crane,3
+street,mobilenetv2,flagpole,3
+street,mobilenetv2,fountain,3
+street,mobilenetv2,library,3
+street,mobilenetv2,moving van,3
+street,mobilenetv2,suit,3
+street,mobilenetv2,academic gown,2
+street,mobilenetv2,accordion,2
+street,mobilenetv2,ashcan,2
+street,mobilenetv2,barber chair,2
+street,mobilenetv2,bikini,2
+street,mobilenetv2,bow,2
+street,mobilenetv2,carousel,2
+street,mobilenetv2,castle,2
+street,mobilenetv2,church,2
+street,mobilenetv2,dam,2
+street,mobilenetv2,doormat,2
+street,mobilenetv2,drilling platform,2
+street,mobilenetv2,garbage truck,2
+street,mobilenetv2,go-kart,2
+street,mobilenetv2,moped,2
+street,mobilenetv2,mountain tent,2
+street,mobilenetv2,passenger car,2
+street,mobilenetv2,patio,2
+street,mobilenetv2,planetarium,2
+street,mobilenetv2,restaurant,2
+street,mobilenetv2,scoreboard,2
+street,mobilenetv2,sliding door,2
+street,mobilenetv2,snowplow,2
+street,mobilenetv2,suspension bridge,2
+street,mobilenetv2,theater curtain,2
+street,mobilenetv2,tile roof,2
+street,mobilenetv2,tow truck,2
+street,mobilenetv2,toyshop,2
+street,mobilenetv2,tricycle,2
+street,mobilenetv2,water tower,2
+street,mobilenetv2,Model T,1
+street,mobilenetv2,Sealyham terrier,1
+street,mobilenetv2,aircraft carrier,1
+street,mobilenetv2,airship,1
+street,mobilenetv2,alp,1
+street,mobilenetv2,altar,1
+street,mobilenetv2,ambulance,1
+street,mobilenetv2,balloon,1
+street,mobilenetv2,barbell,1
+street,mobilenetv2,barrow,1
+street,mobilenetv2,basketball,1
+street,mobilenetv2,beacon,1
+street,mobilenetv2,beer bottle,1
+street,mobilenetv2,boathouse,1
+street,mobilenetv2,bow tie,1
+street,mobilenetv2,breakwater,1
+street,mobilenetv2,broom,1
+street,mobilenetv2,bulletproof vest,1
+street,mobilenetv2,butcher shop,1
+street,mobilenetv2,canoe,1
+street,mobilenetv2,car mirror,1
+street,mobilenetv2,cowboy boot,1
+street,mobilenetv2,dock,1
+street,mobilenetv2,file,1
+street,mobilenetv2,fireboat,1
+street,mobilenetv2,freight car,1
+street,mobilenetv2,gas pump,1
+street,mobilenetv2,greenhouse,1
+street,mobilenetv2,grocery store,1
+street,mobilenetv2,horizontal bar,1
+street,mobilenetv2,jean,1
+street,mobilenetv2,komondor,1
+street,mobilenetv2,lab coat,1
+street,mobilenetv2,military uniform,1
+street,mobilenetv2,minibus,1
+street,mobilenetv2,miniskirt,1
+street,mobilenetv2,monitor,1
+street,mobilenetv2,mountain bike,1
+street,mobilenetv2,panpipe,1
+street,mobilenetv2,parking meter,1
+street,mobilenetv2,pedestal,1
+street,mobilenetv2,plastic bag,1
+street,mobilenetv2,plunger,1
+street,mobilenetv2,prayer rug,1
+street,mobilenetv2,racer,1
+street,mobilenetv2,rotisserie,1
+street,mobilenetv2,rugby ball,1
+street,mobilenetv2,sarong,1
+street,mobilenetv2,school bus,1
+street,mobilenetv2,seat belt,1
+street,mobilenetv2,snowmobile,1
+street,mobilenetv2,soccer ball,1
+street,mobilenetv2,sombrero,1
+street,mobilenetv2,space heater,1
+street,mobilenetv2,spotlight,1
+street,mobilenetv2,steam locomotive,1
+street,mobilenetv2,steel drum,1
+street,mobilenetv2,stole,1
+street,mobilenetv2,submarine,1
+street,mobilenetv2,sundial,1
+street,mobilenetv2,tank,1
+street,mobilenetv2,television,1
+street,mobilenetv2,torch,1
+street,mobilenetv2,triceratops,1
+street,mobilenetv2,triumphal arch,1
+street,mobilenetv2,turnstile,1
+street,mobilenetv2,umbrella,1
+street,mobilenetv2,viaduct,1
+street,mobilenetv2,warplane,1
+street,resnet18,prison,37
+street,resnet18,trailer truck,23
+street,resnet18,streetcar,22
+street,resnet18,jinrikisha,18
+street,resnet18,traffic light,18
+street,resnet18,crutch,14
+street,resnet18,palace,14
+street,resnet18,lakeside,12
+street,resnet18,bell cote,11
+street,resnet18,street sign,11
+street,resnet18,trolleybus,11
+street,resnet18,cab,9
+street,resnet18,monastery,9
+street,resnet18,unicycle,9
+street,resnet18,cinema,8
+street,resnet18,maze,8
+street,resnet18,fountain,7
+street,resnet18,seashore,7
+street,resnet18,vault,7
+street,resnet18,mobile home,6
+street,resnet18,beacon,5
+street,resnet18,limousine,5
+street,resnet18,obelisk,5
+street,resnet18,patio,5
+street,resnet18,tobacco shop,5
+street,resnet18,triumphal arch,5
+street,resnet18,airship,4
+street,resnet18,jean,4
+street,resnet18,minivan,4
+street,resnet18,pier,4
+street,resnet18,sports car,4
+street,resnet18,steel arch bridge,4
+street,resnet18,valley,4
+street,resnet18,bannister,3
+street,resnet18,car mirror,3
+street,resnet18,church,3
+street,resnet18,promontory,3
+street,resnet18,sarong,3
+street,resnet18,snowplow,3
+street,resnet18,solar dish,3
+street,resnet18,worm fence,3
+street,resnet18,Model T,2
+street,resnet18,academic gown,2
+street,resnet18,bicycle-built-for-two,2
+street,resnet18,bow,2
+street,resnet18,breakwater,2
+street,resnet18,bullet train,2
+street,resnet18,castle,2
+street,resnet18,cowboy boot,2
+street,resnet18,dock,2
+street,resnet18,dome,2
+street,resnet18,flagpole,2
+street,resnet18,garbage truck,2
+street,resnet18,greenhouse,2
+street,resnet18,horse cart,2
+street,resnet18,library,2
+street,resnet18,lumbermill,2
+street,resnet18,marimba,2
+street,resnet18,military uniform,2
+street,resnet18,miniskirt,2
+street,resnet18,moped,2
+street,resnet18,mosque,2
+street,resnet18,motor scooter,2
+street,resnet18,park bench,2
+street,resnet18,passenger car,2
+street,resnet18,punching bag,2
+street,resnet18,racer,2
+street,resnet18,scoreboard,2
+street,resnet18,shopping cart,2
+street,resnet18,sliding door,2
+street,resnet18,snowmobile,2
+street,resnet18,stone wall,2
+street,resnet18,suit,2
+street,resnet18,suspension bridge,2
+street,resnet18,theater curtain,2
+street,resnet18,torch,2
+street,resnet18,tow truck,2
+street,resnet18,window shade,2
+street,resnet18,wing,2
+street,resnet18,Irish wolfhound,1
+street,resnet18,Lakeland terrier,1
+street,resnet18,Saluki,1
+street,resnet18,aircraft carrier,1
+street,resnet18,alp,1
+street,resnet18,altar,1
+street,resnet18,ambulance,1
+street,resnet18,amphibian,1
+street,resnet18,analog clock,1
+street,resnet18,apiary,1
+street,resnet18,balloon,1
+street,resnet18,banjo,1
+street,resnet18,barbershop,1
+street,resnet18,barrow,1
+street,resnet18,bearskin,1
+street,resnet18,binoculars,1
+street,resnet18,birdhouse,1
+street,resnet18,bookcase,1
+street,resnet18,broom,1
+street,resnet18,butcher shop,1
+street,resnet18,canoe,1
+street,resnet18,cliff,1
+street,resnet18,cliff dwelling,1
+street,resnet18,coho,1
+street,resnet18,convertible,1
+street,resnet18,crane,1
+street,resnet18,dam,1
+street,resnet18,doormat,1
+street,resnet18,drilling platform,1
+street,resnet18,file,1
+street,resnet18,fire engine,1
+street,resnet18,freight car,1
+street,resnet18,fur coat,1
+street,resnet18,geyser,1
+street,resnet18,go-kart,1
+street,resnet18,golfcart,1
+street,resnet18,great white shark,1
+street,resnet18,guillotine,1
+street,resnet18,jigsaw puzzle,1
+street,resnet18,lab coat,1
+street,resnet18,langur,1
+street,resnet18,manhole cover,1
+street,resnet18,megalith,1
+street,resnet18,monitor,1
+street,resnet18,mountain bike,1
+street,resnet18,mountain tent,1
+street,resnet18,moving van,1
+street,resnet18,neck brace,1
+street,resnet18,oxcart,1
+street,resnet18,parachute,1
+street,resnet18,parking meter,1
+street,resnet18,pay-phone,1
+street,resnet18,pedestal,1
+street,resnet18,pickelhaube,1
+street,resnet18,planetarium,1
+street,resnet18,radio telescope,1
+street,resnet18,restaurant,1
+street,resnet18,rotisserie,1
+street,resnet18,rugby ball,1
+street,resnet18,seat belt,1
+street,resnet18,shoe shop,1
+street,resnet18,slot,1
+street,resnet18,sombrero,1
+street,resnet18,spotlight,1
+street,resnet18,steam locomotive,1
+street,resnet18,stretcher,1
+street,resnet18,stupa,1
+street,resnet18,submarine,1
+street,resnet18,swing,1
+street,resnet18,thatch,1
+street,resnet18,toyshop,1
+street,resnet18,triceratops,1
+street,resnet18,trombone,1
+street,resnet18,tub,1
+street,resnet18,umbrella,1
+street,resnet18,viaduct,1
+street,resnet18,volcano,1
+street,resnet18,water snake,1
+street,resnet18,water tower,1
+street,resnet18,wreck,1
+street,resnet18,yurt,1
+street,vgg16,streetcar,29
+street,vgg16,prison,28
+street,vgg16,unicycle,16
+street,vgg16,palace,14
+street,vgg16,jinrikisha,12
+street,vgg16,cinema,11
+street,vgg16,lakeside,11
+street,vgg16,limousine,11
+street,vgg16,obelisk,11
+street,vgg16,street sign,11
+street,vgg16,bicycle-built-for-two,9
+street,vgg16,steel arch bridge,9
+street,vgg16,trailer truck,9
+street,vgg16,cab,8
+street,vgg16,crutch,8
+street,vgg16,mountain tent,8
+street,vgg16,traffic light,7
+street,vgg16,bell cote,6
+street,vgg16,car mirror,6
+street,vgg16,gondola,6
+street,vgg16,lumbermill,6
+street,vgg16,motor scooter,6
+street,vgg16,pier,6
+street,vgg16,seashore,6
+street,vgg16,suspension bridge,6
+street,vgg16,tobacco shop,6
+street,vgg16,valley,6
+street,vgg16,airship,5
+street,vgg16,go-kart,5
+street,vgg16,mobile home,5
+street,vgg16,monastery,5
+street,vgg16,planetarium,5
+street,vgg16,solar dish,5
+street,vgg16,sports car,5
+street,vgg16,trolleybus,5
+street,vgg16,dam,4
+street,vgg16,drilling platform,4
+street,vgg16,jean,4
+street,vgg16,military uniform,4
+street,vgg16,scoreboard,4
+street,vgg16,snowplow,4
+street,vgg16,steam locomotive,4
+street,vgg16,vault,4
+street,vgg16,bannister,3
+street,vgg16,doormat,3
+street,vgg16,fire screen,3
+street,vgg16,fountain,3
+street,vgg16,freight car,3
+street,vgg16,miniskirt,3
+street,vgg16,moving van,3
+street,vgg16,park bench,3
+street,vgg16,passenger car,3
+street,vgg16,tow truck,3
+street,vgg16,triumphal arch,3
+street,vgg16,viaduct,3
+street,vgg16,worm fence,3
+street,vgg16,Model T,2
+street,vgg16,beacon,2
+street,vgg16,church,2
+street,vgg16,comic book,2
+street,vgg16,container ship,2
+street,vgg16,crane,2
+street,vgg16,flagpole,2
+street,vgg16,garbage truck,2
+street,vgg16,geyser,2
+street,vgg16,greenhouse,2
+street,vgg16,guillotine,2
+street,vgg16,horse cart,2
+street,vgg16,library,2
+street,vgg16,maypole,2
+street,vgg16,minibus,2
+street,vgg16,parking meter,2
+street,vgg16,patio,2
+street,vgg16,police van,2
+street,vgg16,promontory,2
+street,vgg16,restaurant,2
+street,vgg16,submarine,2
+street,vgg16,suit,2
+street,vgg16,swing,2
+street,vgg16,umbrella,2
+street,vgg16,volcano,2
+street,vgg16,wing,2
+street,vgg16,West Highland white terrier,1
+street,vgg16,academic gown,1
+street,vgg16,accordion,1
+street,vgg16,aircraft carrier,1
+street,vgg16,ambulance,1
+street,vgg16,ashcan,1
+street,vgg16,barbell,1
+street,vgg16,basketball,1
+street,vgg16,bathing cap,1
+street,vgg16,beach wagon,1
+street,vgg16,bearskin,1
+street,vgg16,black and gold garden spider,1
+street,vgg16,boathouse,1
+street,vgg16,bookshop,1
+street,vgg16,breakwater,1
+street,vgg16,bullet train,1
+street,vgg16,bulletproof vest,1
+street,vgg16,carousel,1
+street,vgg16,castle,1
+street,vgg16,cliff,1
+street,vgg16,cliff dwelling,1
+street,vgg16,coil,1
+street,vgg16,crate,1
+street,vgg16,dock,1
+street,vgg16,dogsled,1
+street,vgg16,dome,1
+street,vgg16,file,1
+street,vgg16,fire engine,1
+street,vgg16,fireboat,1
+street,vgg16,forklift,1
+street,vgg16,fur coat,1
+street,vgg16,hay,1
+street,vgg16,hoopskirt,1
+street,vgg16,jeep,1
+street,vgg16,jigsaw puzzle,1
+street,vgg16,kimono,1
+street,vgg16,lab coat,1
+street,vgg16,mailbox,1
+street,vgg16,maillot tank suit,1
+street,vgg16,marimba,1
+street,vgg16,minivan,1
+street,vgg16,moped,1
+street,vgg16,parachute,1
+street,vgg16,pickup,1
+street,vgg16,plastic bag,1
+street,vgg16,pole,1
+street,vgg16,pool table,1
+street,vgg16,prayer rug,1
+street,vgg16,punching bag,1
+street,vgg16,racer,1
+street,vgg16,rocking chair,1
+street,vgg16,rugby ball,1
+street,vgg16,sandbar,1
+street,vgg16,shovel,1
+street,vgg16,ski,1
+street,vgg16,sombrero,1
+street,vgg16,space shuttle,1
+street,vgg16,speedboat,1
+street,vgg16,spider monkey,1
+street,vgg16,stage,1
+street,vgg16,stone wall,1
+street,vgg16,tile roof,1
+street,vgg16,torch,1
+street,vgg16,triceratops,1
+street,vgg16,tricycle,1
