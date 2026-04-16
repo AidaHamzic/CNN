@@ -5,8 +5,9 @@ import pandas as pd
 
 from src.analysis.semantic_mapping import SEMANTIC_MAP
 
-INPUT_CSV = Path("../../outputs/combined_raw_predictions.csv")
-OUTPUT_CSV = Path("../../outputs/semantic_evaluated_predictions.csv")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+INPUT_CSV = PROJECT_ROOT / "outputs" / "combined_raw_predictions.csv"
+OUTPUT_CSV = PROJECT_ROOT / "outputs" / "semantic_evaluated_predictions.csv"
 
 
 def build_label_to_class_map(semantic_map: dict[str, set[str]]) -> dict[str, str]:

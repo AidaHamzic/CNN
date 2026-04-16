@@ -3,4 +3,7 @@
 .DS_Store
 __pycache__/
 *.pyc
-data/raw
+data/raw/
+outputs/visualisations/
+outputs/combined_raw_predictions.csv
+outputs/semantic_evaluated_predictions.csv

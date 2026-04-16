@@ -1,4 +1,5 @@
 SEMANTIC_MAP = {
+
     "buildings": {
         "palace",
         "bell cote",
@@ -19,6 +20,7 @@ SEMANTIC_MAP = {
         "obelisk",
         "boathouse",
     },
+
     "sea": {
         "seashore",
         "lakeside",
@@ -37,13 +39,21 @@ SEMANTIC_MAP = {
         "schooner",
         "catamaran",
     },
+
     "forest": {
         "worm fence",
         "stone wall",
         "park bench",
         "suspension bridge",
-        "park bench",
+        "howler monkey",
+        "bittern",
+        "tusker",
+        "hartebeest",
+        "bison",
+        "birdhouse",
+
     },
+
     "glacier": {
         "ski",
         "snowmobile",
@@ -51,7 +61,12 @@ SEMANTIC_MAP = {
         "snowplow",
         "ice bear",
         "promontory",
+        "king penguin",
+        "ptarmigan",
+        "Arctic fox",
+        "bobsled",
     },
+
     "street": {
         "streetcar",
         "traffic light",
@@ -62,6 +77,7 @@ SEMANTIC_MAP = {
         "trolleybus",
         "unicycle",
     },
+
     "mountain": {
         "alp",
         "valley",
@@ -71,10 +87,8 @@ SEMANTIC_MAP = {
         "cliff dwelling",
         "geyser",
         "mountain bike",
-
     },
 }
-
 
 THESIS_CLASSES = [
     "buildings",
