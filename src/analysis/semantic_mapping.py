@@ -98,3 +98,4 @@ THESIS_CLASSES = [
     "sea",
     "street",
 ]
+
