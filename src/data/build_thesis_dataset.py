@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 INDEX_CSV = PROJECT_ROOT / "data" / "interim" / "places365_val_index.csv"
 OUTPUT_CSV = PROJECT_ROOT / "data" / "interim" / "thesis_dataset.csv"
 

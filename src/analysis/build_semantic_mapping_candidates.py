@@ -1,11 +1,19 @@
+from pathlib import Path
+
 import pandas as pd
 
-TOP1_PATH = "outputs/top1_label_frequencies_by_class_model.csv"
-TOP5_PATH = "outputs/top5_label_frequencies_by_class_model.csv"
-OUT_PATH = "outputs/semantic_mapping_candidates.csv"
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+TOP1_PATH = PROJECT_ROOT / "outputs" / "top1_label_frequencies_by_class_model.csv"
+TOP5_PATH = PROJECT_ROOT / "outputs" / "top5_label_frequencies_by_class_model.csv"
+OUT_PATH = PROJECT_ROOT / "outputs" / "semantic_mapping_candidates.csv"
 
 
 def main():
+    if not TOP1_PATH.exists():
+        raise FileNotFoundError(f"Missing input: {TOP1_PATH}")
+    if not TOP5_PATH.exists():
+        raise FileNotFoundError(f"Missing input: {TOP5_PATH}")
+
     top1 = pd.read_csv(TOP1_PATH)
     top5 = pd.read_csv(TOP5_PATH)
 

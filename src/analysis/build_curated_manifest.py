@@ -40,7 +40,7 @@ def assign_category(row: pd.Series) -> int | None:
         return None
 
     if n_correct == 0:
-        if len(set(preds)) == 2:
+        if len(set(preds)) <= 2:
             return 2
 
     return None

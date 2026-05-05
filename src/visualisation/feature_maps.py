@@ -25,8 +25,8 @@ def _normalise_channel(channel: np.ndarray) -> np.ndarray:
 def make_feature_map_grid(
         activations: np.ndarray,
         n_channels: int = 16,
-        cell_size: int = 64,
-        padding: int = 2,
+        cell_size: int = 96,
+        padding: int = 3,
 ) -> Image.Image:
 
     n = min(n_channels, activations.shape[0])
@@ -35,7 +35,7 @@ def make_feature_map_grid(
 
     grid_w = cols * cell_size + (cols + 1) * padding
     grid_h = rows * cell_size + (rows + 1) * padding
-    grid = np.ones((grid_h, grid_w), dtype=np.float32)  # white background
+    grid = np.ones((grid_h, grid_w), dtype=np.float32)
 
     for idx in range(n):
         row = idx // cols

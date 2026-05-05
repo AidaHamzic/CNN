@@ -47,6 +47,7 @@ def parse_top5_predictions(top5_json: str) -> list[dict]:
 
 
 def map_top5_labels_to_thesis(top5_predictions: list[dict]) -> list[str]:
+    seen = set()
     mapped = []
 
     for item in top5_predictions:
@@ -55,7 +56,8 @@ def map_top5_labels_to_thesis(top5_predictions: list[dict]) -> list[str]:
             continue
 
         thesis_class = LABEL_TO_CLASS.get(label)
-        if thesis_class is not None:
+        if thesis_class is not None and thesis_class not in seen:
+            seen.add(thesis_class)
             mapped.append(thesis_class)
 
     return mapped

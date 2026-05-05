@@ -14,9 +14,12 @@ DEVICE = torch.device("cpu")
 MODEL_ORDER = ["vgg16", "resnet18", "mobilenetv2"]
 
 
+_ROOT = Path(__file__).resolve().parents[2]
+
+
 def run_combined_raw_inference(
-    dataset_csv: str | Path = "data/interim/thesis_dataset.csv",
-    output_csv: str | Path = "outputs/combined_raw_predictions.csv",
+    dataset_csv: str | Path = _ROOT / "data" / "interim" / "thesis_dataset.csv",
+    output_csv: str | Path = _ROOT / "outputs" / "combined_raw_predictions.csv",
 ) -> None:
     dataset_csv = Path(dataset_csv)
     output_csv = Path(output_csv)
@@ -45,7 +48,7 @@ def run_combined_raw_inference(
                 f"Model '{model_name}' is missing layer config keys: {missing_layer_keys}"
             )
 
-        for i, sample in df.iterrows():
+        for row_idx, (i, sample) in enumerate(df.iterrows()):
             image_path = Path(str(sample["image_path"]))
 
             if not image_path.exists():
@@ -66,9 +69,7 @@ def run_combined_raw_inference(
             decoded_top5 = decode_topk(logits, model_name=model_name, topk=5)
             top1 = top1_from_topk(decoded_top5)
 
-
             output_row = sample.to_dict()
-
 
             output_row["model_name"] = model_name
             output_row["image_size"] = IMAGE_SIZE
@@ -87,8 +88,8 @@ def run_combined_raw_inference(
 
             rows.append(output_row)
 
-            if (i + 1) % 100 == 0:
-                print(f"{model_name}: processed {i + 1}/{len(df)}")
+            if (row_idx + 1) % 100 == 0:
+                print(f"{model_name}: processed {row_idx + 1}/{len(df)}")
 
     output_df = pd.DataFrame(rows)
 

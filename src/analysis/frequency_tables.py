@@ -4,9 +4,9 @@ from pathlib import Path
 
 import pandas as pd
 
-
-INPUT_CSV = Path("outputs/combined_raw_predictions.csv")
-OUTPUT_DIR = Path("outputs")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+INPUT_CSV = PROJECT_ROOT / "outputs" / "combined_raw_predictions.csv"
+OUTPUT_DIR = PROJECT_ROOT / "outputs"
 
 
 def parse_top5_predictions(top5_json: str) -> list[dict]:
